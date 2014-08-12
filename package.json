@@ -1,6 +1,6 @@
 {
   "name": "each-limit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "async's eachLimit function as its own module",
   "main": "index.js",
   "scripts": {
